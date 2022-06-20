@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "deque": "cpp",
+    "__split_buffer": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled",
+  "cSpell.words": [
+    "fastio"
+  ]
+}

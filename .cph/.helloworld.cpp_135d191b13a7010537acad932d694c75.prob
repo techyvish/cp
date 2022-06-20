@@ -1,0 +1,1 @@
+{"name":"Local: helloworld","url":"/Users/vishal/Documents/cp/helloworld.cpp","tests":[{"id":1641969412192,"input":"10 20 30","output":"102030"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vishal/Documents/cp/helloworld.cpp","group":"local","local":true}
